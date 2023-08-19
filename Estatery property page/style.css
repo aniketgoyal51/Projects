@@ -1,0 +1,119 @@
+html{
+    font-size: 30;
+}
+body{
+    margin: 0px;
+}
+header{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.leftheader{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+h5{
+    margin-left: 30px;
+}
+.manageproperty{
+    border-color: white;
+}
+.login{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(54, 136, 187);
+    color: rgb(54, 136, 187);
+    background-color: white;
+    margin-right: 30px;
+}
+.signup{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(54, 136, 187);
+    background-color: rgb(54, 136, 187);
+    color: white;
+    margin-right: 80px;
+}
+.body{
+    background-color: rgb(208, 237, 255);
+    margin:-15px;
+}
+.searchbar{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.search{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(54, 136, 187);
+    color: rgb(54, 136, 187);
+}
+.info{
+    display: inline-flex;
+    flex-flow: row wrap;
+    border: 2px solid white;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin-left: 375px;
+    border-radius: 5px;
+}
+.location{
+    margin-left: 20px ;
+    padding-right: 20px;
+    border-right: 2px solid lightslategray;
+    
+}
+span{
+    padding-right: 20px;
+}
+.searchbutton{
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 30px;
+    border-color: rgb(54, 136, 187);
+    background-color: rgb(54, 136, 187);
+    color: white;
+}
+p{}
+.pay{
+    color:  rgb(54, 136, 187);
+}
+.properties{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+}
+.property1{
+    border: 1px solid lightslategrey;
+    border-radius: 5px;
+    margin-right: 55px;
+    margin-top: 55px;
+}
+.houseinfo{
+    padding: 25px;
+}
+.heart{
+    border-radius: 100px;
+    margin: 23px;
+    font-size: 25px;
+    background-color: rgb(171, 226, 255);
+}
+.price{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

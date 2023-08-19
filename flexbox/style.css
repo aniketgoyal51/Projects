@@ -1,0 +1,36 @@
+body{
+    background-color: brown;
+}
+.Box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flexitem{
+    font-size: 30px;
+}
+.item1{
+    padding: 70px;
+    background-color: burlywood;
+    margin: 10px;
+}
+.item2{
+    padding: 70px;
+    background-color: burlywood;
+    margin: 10px;    
+}
+.item3{
+    padding: 70px;
+    background-color: burlywood;
+    margin: 10px;
+}
+.item4{
+    padding: 70px;
+    background-color: burlywood;
+    margin: 10px;
+}
+.item5{
+    padding: 70px;
+    background-color: burlywood;
+    margin: 10px;
+}

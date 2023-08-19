@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    font-size: 30px;
+    background-color: rgb(243, 243, 235);
+}
+header{
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    background-color: black;
+    color: white;
+}
+.logo{
+    width: 140px;
+}
+.address{
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: 10px;
+    width: 200px;
+}
+.midheader{
+    display: flex;
+    flex-flow: row;
+    margin-top: 8px;
+}
+.all{
+    height: 55px;
+    font-size: 25px;
+    border-radius: 10px 0px 0px 10px;
+}
+.text{
+    height: 55px;
+    width: 900px;
+    font-size: 20px;
+}
+.sear{
+    background-color: orange;
+    padding: 9.5px;
+    border-radius: 0px 10px 10px 0px;
+}
+.language{
+    height: 40px;
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-color: black;
+    width: 70px;
+    margin-left: 40px;
+    font-size: 20px ;
+}
+.account{
+    margin-top: 4px;
+    margin-left: 40px;
+}
+.list{
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+.order{
+    margin-left: 40px;
+}
+.head2{
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 0;
+    background-color: gray;
+    color: white;
+    justify-content: space-between;
+    align-items: center; 
+}
+span{
+    margin-right: 13px ;
+    font-size: 20px;
+}
+.list1{
+    margin-bottom: -14px;
+}
+.prime{
+    background-color: gray;
+    border-color: gray;
+    color: white;
+}
+.titlecolor{
+    color: white;
+}
+h3{
+    align-items: center;
+}
+.category{
+    display: inline-flex;
+    margin-top: -550px;
+    padding-left: 27px;
+    padding-right: 28px;
+    margin-bottom: 120px;
+}
+a{
+    font-size: 20px;
+    /* margin-left: 10px; */
+}
+.flex{
+    border: 2px solid black;
+    padding: 18px;
+    margin: 15px;
+    border-color: transparent;
+    background-color: white;
+}
+.image{
+    margin: 10px;
+}
+.flexbox{
+    display: flex;
+    flex-flow: row wrap;
+    width: 415px;
+    border: 2px solid black;
+    padding: 18px;
+    margin: 12px;
+    border-color: transparent;
+    background-color: white;
+}

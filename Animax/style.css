@@ -1,0 +1,77 @@
+.frontpage{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/animax/animax-bg%5B1%5D.png");
+    background-size: 100% 100%;
+    padding-bottom: 20px;
+    
+}
+.front{
+    text-align: center;
+}
+.button{
+    text-align: right;
+    margin-top: -150px;
+    margin-right: 150px;
+}
+hr{
+    height: 8px;
+    background-color:rgb(30, 29, 29);
+    border-color: rgb(30, 29, 29);
+}
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-stretch: semi-condensed;
+}
+img{
+    padding: 100px;
+}
+button{
+    padding: 10px;
+    background-color: mediumvioletred;
+    color:  white;
+    font-size: 35px;
+}
+.frozen2{
+    text-align: right;
+}
+.frozentext{
+    text-align: left;
+    margin-left: 200px;
+}
+.frozen2image{
+    margin-top: -450px;
+    margin-right: 100px;
+}
+.avengertext{
+    text-align: right;
+    margin-right: 200px;
+}
+.avengerimage{
+    margin-top: -400px;
+    margin-left: 100px;
+}
+.onwardtext{
+    text-align: left;
+    margin-left: 200px;
+}
+.onward{
+    text-align: right;
+}
+.onwardimage{
+    margin-top: -450px;
+    margin-right: 100px;
+}
+html{
+    font-size: 40px;
+}
+.outro{
+    text-align: center;
+    padding: 30px;
+    font-size: 40px;
+}
+p{
+    font-size: 35px;
+}

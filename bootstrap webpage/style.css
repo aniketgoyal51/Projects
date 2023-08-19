@@ -1,0 +1,78 @@
+html{
+    text-align: center;
+    font-size: 25px;
+    color: whitesmoke;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/958693744/vector/abstract-red-light-trail-on-blue-background.jpg?s=1024x1024&w=0&k=20&c=NMWPgT3zSw2UxluLVNmhoQUcOuA_FgzQIvw5aDGQkVc=");
+    background-size: 100%;
+    margin: 0;
+}
+header{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    background-color: rgb(91, 24, 135);
+    color: white;
+}
+.version{
+    display: flex;
+    align-items: flex-end; 
+    margin-right: 20px;  
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.titlebar{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+h5{
+    margin-left: 20px;
+}
+.middle{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+strong{
+    background-color: orange;
+    padding: 5px;
+    border-radius: 10px;
+}
+.mainlogo{
+    padding: 30px;
+}
+.readbutton{    
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(124, 19, 95);
+    color: white;
+
+}
+.text{
+    padding: 10px;
+    font-size: 15px;
+}
+footer{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+input{
+    margin: 10px;
+}
+.icons{
+    display: flex;
+    align-items:baseline;
+}
+.v5{
+    border-right: 1px solid black;
+    padding-right: 14px;
+    border-color: white;
+}
+.download{
+    color: white;
+}

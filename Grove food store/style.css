@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-size:initial;
+}
+div{
+    background-image: url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/groove-bg%5B1%5D.png);
+    background-size: 100%;
+    padding: 300px;
+}
+button{
+    padding: 20px 80px;
+    font-size: 20px;
+    background-color: rgb(40, 119, 40);
+    color: aliceblue;
+}
+pre{
+    font-size: 20;
+    
+}
+h3{
+    background-color: black;
+}
+table{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-right: 625px;
+    margin-left: 625px;
+}
+td{
+    border: 1px solid black;
+}
+html{
+    font-size: 40px;
+}
+td{
+    text-align: center;
+}

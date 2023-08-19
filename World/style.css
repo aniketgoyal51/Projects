@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    color: white;
+    background-image: url(https://getwallpapers.com/wallpaper/full/1/a/2/64200.jpg);
+    font-size: 35;
+    background-size: 2000px;
+}
+hr{
+    margin-right: 925px;
+    margin-left: 925px;
+    color: white;
+}
+input{
+    padding: 30px 100px;
+    border-radius: 20px;
+    background-color:rgb(107, 107, 232);
+    color:white;
+    font-size: 20px;
+    margin-right: 80px;
+}
+a{
+    color:cyan;
+}
+h1{
+    color: white;
+}
+

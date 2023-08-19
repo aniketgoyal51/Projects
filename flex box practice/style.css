@@ -1,0 +1,76 @@
+
+body{
+    border: 2px solid black;
+    border-collapse: 250px;
+}
+.topmargin{
+    display: flex;
+}
+.email{
+flex-grow: 10;
+align-content: stretch;
+margin: 10px;
+padding: 5px;
+}
+.button{
+    border-radius: 100%;
+    margin: 15px;
+}
+.margin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(70, 70, 226);
+    color: white;
+}
+.sign{
+    display: flex;
+    flex-direction: row;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    padding: 50px;
+}
+.logo{
+    justify-content: center;
+    align-self: center;
+}
+.box{
+display:flex;
+flex-wrap: wrap;
+font-size: 40;
+justify-content: center;
+}
+.one{
+    order: 5;
+    background-color: purple;
+    padding: 250px;
+}
+.two{
+    order:2;
+    background-color: red;
+    padding: 250px;
+}
+.three{
+    order: 3;
+    background-color: lightblue;
+    padding: 250px;
+}
+.four{
+    order: 4;
+    background-color: aqua;
+    padding: 250px;
+}
+.five{
+    order: 1;
+    background-color: yellow;
+    padding: 250;
+}
+.end{
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+}

@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    border: 3px solid black;
+    color: aliceblue;
+    font-size: 25;
+}
+header{
+    background-image: url("https://kq-storage.s3.ap-south-1.amazonaws.com/Github/shape_generator/box-generator-bg%5B1%5D.png");
+    background-size: 100%;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+}
+.submit{
+    background-color: orangered;
+    color: aliceblue;
+    font-size: 20;
+    padding: 5px;
+}
+.number{
+    margin-top: 20px;
+}
+.num{
+    height: 35px;
+    width: 200px;
+}
